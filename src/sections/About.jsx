@@ -23,7 +23,7 @@ const About = () => {
               className="w-full sm:h-[276px] h-fit object-contain"
             />
             <div>
-              <p className="grid-headtext">Привет, меня зовут Макс</p>
+              <p className="grid-headtext">Привет, меня зовут Максим</p>
               <p className="grid-subtext">
                 Я изучаю веб-работку уже более 4 лет. Имею опыт в разработке
                 frontend и backend на языке JavaScript. Это веб-приложение
@@ -43,9 +43,9 @@ const About = () => {
             <div>
               <p className="grid-headtext">Мои навыки</p>
               <p className="grid-subtext">
-                Я разрабатывал это приложение на JavaScript/TypeScript с
+                Я разрабатывал приложения на языке JavaScript/TypeScript с
                 использованием фреймворков React, NextJS и Three.js. И backend
-                части приложений на Node.js и с использованием NestJS.
+                части приложений на Node.js и NestJS.
               </p>
             </div>
           </div>
@@ -75,7 +75,7 @@ const About = () => {
             </div>
             <div>
               <p className="grid-headtext">Контакты</p>
-              <p className="grid-subtext">Мои контакты: +7 (903) 544-39-84</p>
+              <p className="grid-subtext">Мои контакты: +7 (999) 999-99-99</p>
               <Button
                 name="Связаться со мной"
                 isBeam

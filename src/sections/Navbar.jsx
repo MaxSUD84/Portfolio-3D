@@ -31,7 +31,7 @@ const Navbar = () => {
             href="/"
             className="text-neutral-400 font-bold hover:text-white transition-colors"
           >
-            Max
+            MaxSUD84
           </a>
 
           <button
